@@ -1,0 +1,35 @@
+
+
+button {
+    list-style: none;
+    top: 10px;
+    font-weight:bolder;
+    position: relative;
+    width: 700px;
+    height: 70px;
+    border-radius: 10px;
+    color: #000000;
+    background-color: rgb(48, 17, 141);
+    box-shadow:darkslategray;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 0px;
+}
+    
+
+    body {
+        background-color: #FF00FF;
+        padding-left: 3%;
+        padding-right: 3%;
+    }
+
+#css-id {
+    color:#000000;
+    padding-top: 3%;
+    }
+
+.css-class {
+    color: rgb(0, 0, 0);
+    
+}
